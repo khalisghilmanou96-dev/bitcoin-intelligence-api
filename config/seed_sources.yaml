@@ -1,0 +1,17 @@
+sources:
+  - name: Bitcoin Core
+    url: https://bitcoincore.org/
+    trust_level: official
+    max_depth: 1
+  - name: Bitcoin Developer Documentation
+    url: https://developer.bitcoin.org/
+    trust_level: official
+    max_depth: 1
+  - name: Bitcoin.org
+    url: https://bitcoin.org/
+    trust_level: official
+    max_depth: 1
+  - name: Bitcoin BIPs
+    url: https://github.com/bitcoin/bips
+    trust_level: official
+    max_depth: 0

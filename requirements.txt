@@ -1,0 +1,12 @@
+fastapi==0.141.1
+uvicorn[standard]>=0.35,<1
+SQLAlchemy==2.0.52
+psycopg[binary]>=3.2,<4
+pgvector>=0.4,<1
+pydantic>=2.11,<3
+pydantic-settings>=2.10,<3
+httpx>=0.28,<1
+beautifulsoup4>=4.13,<5
+trafilatura>=2.0,<3
+PyYAML>=6.0,<7
+pytest>=8,<9
